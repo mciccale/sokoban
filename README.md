@@ -2,8 +2,10 @@
 
 ## Installation steps
 
+Make sure you have Java 11 (at least) and Maven installed in your system.
+
 ```
-git clone https://costa.ls.fi.upm.es/gitlab/200356/sokoban.git
+git clone https://github.com/mciccale/sokoban.git
 cd sokoban
 mvn compile
 mvn exec:java
